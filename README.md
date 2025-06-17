@@ -4,6 +4,20 @@ My ePortfolio showcases a comprehensive understanding of essential elements of c
 
 ### <u>Table of Content</u>
 
+<p align="center">
+  <h3 style="font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, sans-serif;">
+      <a href="https://pminaspur.github.io/Capstone/#self-assessment">Professional Self-Assessment"</a><br>
+      <a href="https://pminaspur.github.io/Capstone/#codereview">Code Review</a><br>
+      <a href="https://pminaspur.github.io/Capstone/#artifact-codereview">Artifacts Code Review</a><br>
+      <a href="https://pminaspur.github.io/Capstone/#softwaredesign">Software Design and Engineering</a><br>
+      <a href="https://pminaspur.github.io/Capstone/#artifact-software-design-and-engineering">Artifacts Software Design and Engineering</a><br>
+      <a href="https://pminaspur.github.io/Capstone/#algorithms">Algorithms and Data Structure</a><br>
+      <a href="https://pminaspur.github.io/Capstone/#artifact-algorithms-and-data-structures">Artifacts Algorithms and Data Structure</a><br>
+      <a href="https://pminaspur.github.io/Capstone/#databases">Databases</a><br>
+      <a href="https://pminaspur.github.io/Capstone/#artifact-databases">Artifact Databases</a><br>
+  </h3>
+</p>
+
 &nbsp;[Professional Self-Assessment](#self-assessment "Professional Self-Assessment")<br/>
 &nbsp;[Refinement Plan and Code Review](#codereview "Refinement Plan and Code Review")<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Code Review Videos Link_](#code-reviews-video-link "Artifacts Code Review Videos Link")<br/>
@@ -13,7 +27,6 @@ My ePortfolio showcases a comprehensive understanding of essential elements of c
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Artifact Algorithms and Data Structure_](#artifact-algorithms-and-data-structures "Artifact Algorithms and Data Structure")<br/>
 &nbsp;[Databases](#databases "Databases")<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Artifact Databases_](#artifact-databases "Artifact Databases")<br/>
-&nbsp;[Reviews](#reviews "ePortfolio Reviews")
 
 
 
