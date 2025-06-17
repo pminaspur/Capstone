@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context=".MainActivity">
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/welcome"
+        android:text="Welcome"
+        android:textColor="#091D1A"
+        android:textSize="20sp"
+        android:layout_margin="50dp"
+        android:gravity="center"
+        tools:ignore="HardcodedText" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/welcome"
+        android:id="@+id/image_logo"
+        android:gravity="center">
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:src="@drawable/weighingmachine" >
+        </ImageView>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/weighttrack"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Weight Tracker"
+        android:textColor="#4D06AF"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:layout_below="@id/image_logo"
+        tools:ignore="HardcodedText" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/username"
+        android:layout_below="@id/weighttrack"
+        android:background="@color/cardview_shadow_start_color"
+        android:hint="@string/username"
+        android:textColor="#D9D1D1"
+        android:textSize="25sp"
+        android:textColorHint="@color/white"
+        android:layout_margin="5dp"
+        android:padding="18dp"
+        android:inputType="text"
+        android:drawablePadding="5dp"   />
+    <requestFocus/>
+
+
+    <EditText
+        android:id="@+id/password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/username"
+        android:layout_margin="5dp"
+        android:background="@color/cardview_shadow_start_color"
+        android:drawablePadding="5dp"
+        android:hint="@string/password"
+        android:textSize="25sp"
+        android:padding="18dp"
+        android:textColor="#D9D1D1"
+        android:inputType="textPassword"
+        android:textColorHint="@color/white"
+        tools:ignore="VisualLintTextFieldSize" />
+
+
+    <com.google.android.material.button.MaterialButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/loginbutton"
+        android:layout_below="@id/password"
+        android:text="@string/login"
+        android:backgroundTint="#203DA4"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="25dp"
+        android:textStyle="bold"
+        android:textSize="18sp" />
+
+
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/createaccountbutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/loginbutton"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="1dp"
+        android:minHeight="48dp"
+        android:text="@string/create_new_account"
+        android:textColor="@color/white"
+        android:textSize="17sp"
+        android:backgroundTint="#203DA4"
+        android:textStyle="normal" />
+
+
+
+</RelativeLayout>
+

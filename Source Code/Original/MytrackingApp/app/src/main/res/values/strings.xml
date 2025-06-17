@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MytrackingApp</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="select">Select</string>
+    <string name="date">Date</string>
+    <string name="weight">Weight</string>
+    <string name="please_select">Please Select</string>
+    <string name="weight_info">Weight Info</string>
+    <string name="Date">Date</string>
+    <string name="Weight">Weight</string>
+    <string name="add_update_weight">Add/Update Weight</string>
+    <string name="delete_weight">Delete Weight</string>
+    <string name="send_sms_notification">Send SMS Notification</string>
+    <string name="textview">Text View</string>
+    <string name="goal_notification">Goal Notification</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="goal_achievement">Goal Achievement</string>
+    <string name="weight_goal_achievement">Weight Goal Achievement</string>
+    <string name="enter_weight">Enter Weight</string>
+    <string name="enter_date">Enter Date</string>
+    <string name="add_weight">Add Weight</string>
+    <string name="update_weight">Update Weight</string>
+
+</resources>
