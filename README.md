@@ -1,5 +1,3 @@
-## SNHU CS499 - Computer Science Capstone
-
 ## Welcome
 
 My ePortfolio showcases a comprehensive understanding of essential elements of computer science, such as programming languages, algorithms, data structures, and software development techniques  that I gained and developed during my time studying Computer Science at Southern New Hampshire University (SNHU).   In my portfolio, I showcase projects that demonstrate designing, developing, and enhancing software solutions by employing best practices, coding methodologies, and the latest tools across multiple areas, including backend services, web applications, and system-driven frameworks.
