@@ -3,18 +3,13 @@
 My ePortfolio showcases a comprehensive understanding of essential elements of computer science, such as programming languages, algorithms, data structures, and software development techniques  that I gained and developed during my time studying Computer Science at Southern New Hampshire University (SNHU).   In my portfolio, I showcase projects that demonstrate designing, developing, and enhancing software solutions by employing best practices, coding methodologies, and the latest tools across multiple areas, including backend services, web applications, and system-driven frameworks.
 
 ### <u>Table of Content</u>
-
 <p align="center">
   <h3 style="font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, sans-serif;">
       <a href="https://pminaspur.github.io/Capstone/#self-assessment">Professional Self-Assessment"</a><br>
-      <a href="https://pminaspur.github.io/Capstone/#codereview">Code Review</a><br>
-      <a href="https://pminaspur.github.io/Capstone/#artifact-codereview">Artifacts Code Review</a><br>
+      <a href="https://pminaspur.github.io/Capstone/#codereview">Code Review and Video Links</a><br>
       <a href="https://pminaspur.github.io/Capstone/#softwaredesign">Software Design and Engineering</a><br>
-      <a href="https://pminaspur.github.io/Capstone/#artifact-software-design-and-engineering">Artifacts Software Design and Engineering</a><br>
       <a href="https://pminaspur.github.io/Capstone/#algorithms">Algorithms and Data Structure</a><br>
-      <a href="https://pminaspur.github.io/Capstone/#artifact-algorithms-and-data-structures">Artifacts Algorithms and Data Structure</a><br>
       <a href="https://pminaspur.github.io/Capstone/#databases">Databases</a><br>
-      <a href="https://pminaspur.github.io/Capstone/#artifact-databases">Artifact Databases</a><br>
   </h3>
 </p>
 
