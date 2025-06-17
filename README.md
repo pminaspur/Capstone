@@ -18,13 +18,13 @@ My ePortfolio showcases a comprehensive understanding of essential elements of c
 
 
 <p align="center">
-  <h2 style="font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, sans-serif;">
+  <h3 style="font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, sans-serif;">
       <a href="https://pminaspur.github.io/Capstone">ABC</a><br>
       <a href="https://pminaspur.github.io/Capstone">EFG</a><br>
       <a href="https://pminaspur.github.io/Capstone/data_structure_algorithm">Data Structures and Algorithms</a><br>
       <a href="https://pminaspur.github.io/Capstone/software_and_design">Software Engineering and Design</a><br>
       <a href="https://pminaspur.github.io/Capstone/software_security">Software Security</a><br>
-  </h2>
+  </h3>
 </p>
 
 ### _Professional Self-Assessment_
