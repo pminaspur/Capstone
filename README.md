@@ -45,17 +45,17 @@ My experience in the Computer Science Program has helped me learn and improve my
 
 Code review is often referred to as a peer assessment of code, which helps developers ensure or improve code quality and identify and rectify errors that may have been missed during the initial development stage before integration and deployment. In other words, code reviews are a practice focused on maintaining software quality, wherein one or more individuals or tools methodically inspect and evaluate the program's source code. After a software developer completes coding, they can easily make mistakes. With this in mind, code reviews provide an excellent opportunity to gain a different perspective on the solutions and implementations, helping to identify bugs, logical errors, overlooked edge cases, or other concerns so we can collaboratively resolve them and prevent mistakes.<br><br>
 
-The goals of this course included an informal code review where I assessed projects from three prior courses to evaluate both the strengths and weaknesses of the code, as well as suggested improvements that encompassed software engineering, data structures and algorithms, and database elements. Through the enhancements I selected, I was able to demonstrate my ability to fulfill all five course outcomes.<br><br>
+The goals of this course included an informal code review where I assessed projects from three prior courses to evaluate both the strengths and weaknesses of the code, as well as suggested improvements that encompassed software engineering, data structures and algorithms, and database elements. Through the enhancements I selected, I was able to demonstrate my ability to fulfill all five course outcomes.<br>
 
 <h3>Course Outcomes</h3>
 
-1) Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science.<br><br>
+1) Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science.<br>
 
-2) Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts<br><br?
+2) Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts<br>
 
-3) Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices.<br><br?
+3) Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices.<br>
 
-4) Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.<br><br>
+4) Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.<br>
 
 5) Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources.<br><br>
 
