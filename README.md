@@ -60,7 +60,7 @@ My experience in the Computer Science Program has helped me learn and improve my
 
 </div>
 
-### _Code Review_Video Links_
+### _Code Review
 <div id="codereview">
 
 Code review is often referred to as a peer assessment of code, which helps developers ensure or improve code quality and identify and rectify errors that may have been missed during the initial development stage before integration and deployment. In other words, code reviews are a practice focused on maintaining software quality, wherein one or more individuals or tools methodically inspect and evaluate the program's source code. After a software developer completes coding, they can easily make mistakes. With this in mind, code reviews provide an excellent opportunity to gain a different perspective on the solutions and implementations, helping to identify bugs, logical errors, overlooked edge cases, or other concerns so we can collaboratively resolve them and prevent mistakes.<br><br>
@@ -68,19 +68,6 @@ Code review is often referred to as a peer assessment of code, which helps devel
 Code review videos feature an assessment of the three chosen artifact codes for the capstone project, focusing on their shortcomings and vulnerabilities, along with a description of my strategy for improvements. 
 The code review involves a detailed examination of the current source code, providing a concise overview of the project, its purpose, and what the application accomplishes. Following this, I assessed the provided checklist in relation to the existing source code, discussing its limitations and sharing my insights on the proposed enhancements across three categories: software design and engineering artifacts, algorithms and data structures, and databases.
 Through the creation of these videos, I am enhancing my skills in professional communication across written, verbal, and visual channels. Furthermore, I am ensuring that my code review presentation is effectively communicated in a collaborative setting and expressing my ideas clearly. <br><br>
-
-#### Android Weight tracking Mobile App(Software Design And Engineering)<br>
-<video width="600" height="100%" controls src="https://youtu.be/Lm3JZBd8Vz8"></video>
-
-#### Grazioso Salvare Rescue Web Application(Algorithms And Data Structure)<br>
-<video width="600" height="100%" controls src="https://youtu.be/dvWNYRbq264"></video>
-
-#### Grazioso Salvare Rescue Web Application(Databases)<br>
-<video width="600" height="100%" controls src="https://youtu.be/0k6Qr0WNkN4"></video>
-
-In the artifact of the Code analysis, I illustrate the key components of: Current code and its operation: This segment examines the capabilities and performance of the current code. <br/>
-Code Review: Highlight areas requiring improvement concerning structure, documentation, security, testing, loops, functionality, comments, etc. <br><br>
-Planned Improvements: This portion outlines intended enhancements that respond to the concerns identified in the code review.<br/>
 
 <div style="text-align: right;">
     <a href="#">
@@ -90,12 +77,26 @@ Planned Improvements: This portion outlines intended enhancements that respond t
 
 </div>
 
+### _Refinement Plan and video Links
+
+Code review videos feature an assessment of the three chosen artifact codes for the capstone project, focusing on their shortcomings and vulnerabilities, along with a description of my strategy for improvements.
+The code review involves a detailed examination of the current source code, providing a concise overview of the project, its purpose, and what the application accomplishes. Following this, I assessed the provided checklist in relation to the existing source code, discussing its limitations and sharing my insights on the proposed enhancements across three categories: software design and engineering artifacts, algorithms and data structures, and databases.<br><br>
+
+Through the creation of these videos, I am enhancing my skills in professional communication across written, verbal, and visual channels. Furthermore, I am ensuring that my code review presentation is effectively communicated in a collaborative setting and expressing my ideas clearly. 
+
+In the artifact of the Code analysis, I illustrate the key components of: Current code and its operation: This segment examines the capabilities and performance of the current code. 
+Code Review: Highlight areas requiring improvement concerning structure, documentation, security, testing, loops, functionality, comments, etc. 
+Planned Improvements: This portion outlines intended enhancements that respond to the concerns identified in the code review.
 
 ### _Software Design and Engineering_
 <div id="softwaredesign">
 
-The chosen artifact for the code review of software design and engineering is the Weight Tracking Mobile App. This application was created as part of the computer science course CS360 Mobile Architecture and Programming. Its primary objective is to allow users to monitor their weight through an Android device. The mobile app was developed in JAVA and incorporates an SQLite database. Planned upgrades include implementing input validation for usernames and passwords, improving error handling, creating a new account page for new users, and adding graphs or charts to assist users in tracking their weight progress or changes. With these enhancements, I aim to improve data security, enhance account management and login functionalities, safeguard account information, ensure accessibility, and make the interface more user-friendly while also addressing exception handling.
-ADD LINK TO YOU TUBE OF POSTED VIDEO <br><br>
+The chosen artifact for the code review of software design and engineering is the Weight Tracking Mobile App. This application was created as part of the computer science course CS360 Mobile Architecture and Programming. Its primary objective is to allow users to monitor their weight through an Android device. This project's development and programming tool is called Android Studio IDE. The app was created using Android Studio, which serves as the official development environment for Android devices. The application is developed using the JAVA programming language and integrates with an SQLite database. Android Studio employs Gradle as a build system to run the apps on an Android emulator.<br><br>
+
+#### Android Weight tracking Mobile App(Software Design And Engineering)<br>
+[![alt text](https://img.youtube.com/vi/Lm3JZBd8Vz8/0.jpg)](https://www.youtube.com/watch?v=Lm3JZBd8Vz8)
+
+Planned upgrades include implementing input validation for usernames and passwords, improving error handling, creating a new account page for new users, and adding graphs or charts to assist users in tracking their weight progress or changes. With these enhancements, I aim to improve data security, enhance account management and login functionalities, safeguard account information, ensure accessibility, and make the interface more user-friendly while also addressing exception handling.<br><br>
 
 <div style="text-align: right;">
     <a href="#">
@@ -108,9 +109,14 @@ ADD LINK TO YOU TUBE OF POSTED VIDEO <br><br>
 ### _Algorithms and Data Structure_
 <div id="algorithms">
 
-The code review for algorithms and data structures pertains to the Animal Shelter class. This program was planned, designed, and developed as part of the computer science curriculum, CS 340 Client-Server Development course. It aims to create a fully functional interactive web-based dashboard for the Grazioso animals training company, which specializes in identifying suitable dogs for their search and rescue training programs. The application is built using Python and the Dash framework, with MongoDB acting as its database. The connection between Python and MongoDB is established using the PyMongo driver, while Jupyter Notebook functions as a testing environment for the web application. The application is structured as a monolithic architecture, which limits its flexibility and scalability due to a tightly coupled codebase. I intend to decompose the code into smaller, individual services, ensuring that each service can be independently built, developed, and tested.
-Additionally, I plan to utilize advanced operations, as the list will facilitate sorting algorithms like quicksort and binary search, which are beneficial for dynamic data in this complex application. With these enhancements, I aim to improve the data structures and algorithms of the Animal Shelter class, thereby boosting the overall performance and value of the system.
-ADD LINK TO YOU TUBE OF POSTED VIDEO <br><br>
+The code review for algorithms and data structures pertains to the Animal Shelter class. This program was planned, designed, and developed as part of the computer science curriculum, CS 340 Client-Server Development course.  In this project, the Model-View-Controller (MVC) development pattern was used to create an interactive web-based dashboard. It was designed to provide interactive and fully functional training for an animal rescue organization that identifies dogs suitable for their search-and-rescue training programs, where dogs are trained to rescue humans and other dogs. <br><br>
+
+
+#### Grazioso Salvare Rescue Web Application(Algorithms And Data Structure)<br>
+[![alt text](https://img.youtube.com/vi/dvWNYRbq264/0.jpg)](https://www.youtube.com/watch?v=dvWNYRbq264)
+
+
+The application is structured as a monolithic architecture, which limits its flexibility and scalability due to a tightly coupled codebase. I intend to decompose the code into smaller, individual services, ensuring that each service can be independently built, developed, and tested. Additionally, I plan to utilize advanced operations, as the list will facilitate sorting algorithms like quicksort and binary search, which are beneficial for dynamic data in this complex application. With these enhancements, I aim to improve the data structures and algorithms of the Animal Shelter class, thereby boosting the overall performance and value of the system.<br><br>
 
 <div style="text-align: right;">
     <a href="#">
@@ -125,8 +131,13 @@ ADD LINK TO YOU TUBE OF POSTED VIDEO <br><br>
 ### _Databases_
 <div id="databases">
 
-Code reviews in databases are an artifact of the Grazioso Salvare Search for Rescue Web Application. This web application was developed as part of the CS340 Client-Server Development course. Leveraging a pre-existing database from animal shelters, the application identifies and classifies available dogs for training in various rescue programs by developing a web interface. The project utilizes MongoDB alongside the Dash framework within the Python application. Integration between MongoDB and Python is achieved through the PyMongo library. Assessments of the web application are performed using Jupyter Notebook. The planned enhancement is to utilize advanced features of MongoDB by setting up indexes on commonly queried attributes such as age, animal ID, type, and color. This will allow the database to efficiently find data quickly instead of scanning the whole table, facilitating considerable horizontal scalability without necessitating changes to the application logic. The data entered the database is not validated, making it vulnerable to security risks, so I plan to implement strict input validation as my second enhancement to the project. In addition, I intend to execute the operations entirely within the database using Aggregation pipelines, eliminating the need for extensive result sets to be transferred over the network. The third improvement I have made to the project is this one.
-ADD LINK TO YOU TUBE OF POSTED VIDEO <br><br>
+
+Code reviews in databases are an artifact of the Grazioso Salvare Search for Rescue Web Application. This web application was developed as part of the CS340 Client-Server Development course. Leveraging a pre-existing database from animal shelters, the application identifies and classifies available dogs for training in various rescue programs by developing a web interface. This full-stack application uses Model, View, and Controller development patterns. The project utilizes MongoDB alongside the Dash framework within the Python application. Integration between MongoDB and Python is achieved through the PyMongo library. Assessments of the web application are performed using Jupyter Notebook. <br><br>
+
+#### Grazioso Salvare Rescue Web Application(Databases)<br>
+[![alt text](https://img.youtube.com/vi/0k6Qr0WNkN4/0.jpg)](https://www.youtube.com/watch?v=0k6Qr0WNkN4)
+
+The planned enhancement involves utilizing the advanced features of MongoDB by creating indexes on frequently searched attributes such as age, animal ID, type, and color. This will enable the database to find data more rapidly, eliminating the need to scan the entire table, and thus allowing for significant horizontal scalability without altering the application logic. Since the data entered into the database lacks validation, it poses security risks; therefore, I intend to implement stringent input validation as the second enhancement for the project. Furthermore, I plan to conduct all operations directly within the database using Aggregation pipelines, which will remove the necessity for transferring large result sets across the network.  <br><br>
 
 <div style="text-align: right;">
     <a href="#">
