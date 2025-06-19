@@ -5,35 +5,15 @@ My ePortfolio showcases a comprehensive understanding of essential elements of c
 ### <u>Table of Content</u>
 <p align="center">
   <h3 style="font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, sans-serif;">
-      <a href="https://pminaspur.github.io/Capstone/#self-assessment">Professional Self-Assessment"</a><br>
-      <a href="https://pminaspur.github.io/Capstone/#codereview">Code Review and Video Links</a><br>
+      <a href="https://pminaspur.github.io/Capstone/#self-assessment">Professional Self-Assessment</a><br>
+      <a href="https://pminaspur.github.io/Capstone/#codereview">Code Review</a><br>
+      <a href="https://pminaspur.github.io/Capstone/#refinement">Refinement Plan and Video Links</a><br>
       <a href="https://pminaspur.github.io/Capstone/#softwaredesign">Software Design and Engineering</a><br>
       <a href="https://pminaspur.github.io/Capstone/#algorithms">Algorithms and Data Structure</a><br>
       <a href="https://pminaspur.github.io/Capstone/#databases">Databases</a><br>
   </h3>
 </p>
 
-&nbsp;[Professional Self-Assessment](#self-assessment "Professional Self-Assessment")<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Code Review Videos Link_](#code-reviews-video-link "Artifacts Code Review Videos Link")<br/>
-&nbsp;[Refinement Plan and Code Review](#codereview "Refinement Plan and Code Review")<br/>
-&nbsp;[Software Design and Engineering](#softwaredesign "Software Design and Engineering")<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Artifact Software Design and Engineering_](#artifact-software-design-and-engineering "Artifact Software Design and Engineering")<br/>
-&nbsp;[Algorithms and Data Structure](#algorithms "Algorithms and Data Structure")<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Artifact Algorithms and Data Structure_](#artifact-algorithms-and-data-structures "Artifact Algorithms and Data Structure")<br/>
-&nbsp;[Databases](#databases "Databases")<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[_Artifact Databases_](#artifact-databases "Artifact Databases")<br/>
-
-
-
-<p align="center">
-  <h3 style="font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, sans-serif;">
-      <a href="https://pminaspur.github.io/Capstone">ABC</a><br>
-      <a href="https://pminaspur.github.io/Capstone">EFG</a><br>
-      <a href="https://pminaspur.github.io/Capstone/data_structure_algorithm">Data Structures and Algorithms</a><br>
-      <a href="https://pminaspur.github.io/Capstone/software_and_design">Software Engineering and Design</a><br>
-      <a href="https://pminaspur.github.io/Capstone/software_security">Software Security</a><br>
-  </h3>
-</p>
 
 ### _Professional Self-Assessment_
 <div id="self-assessment">
@@ -60,7 +40,7 @@ My experience in the Computer Science Program has helped me learn and improve my
 
 </div>
 
-### _Code Review
+### Code Review
 <div id="codereview">
 
 Code review is often referred to as a peer assessment of code, which helps developers ensure or improve code quality and identify and rectify errors that may have been missed during the initial development stage before integration and deployment. In other words, code reviews are a practice focused on maintaining software quality, wherein one or more individuals or tools methodically inspect and evaluate the program's source code. After a software developer completes coding, they can easily make mistakes. With this in mind, code reviews provide an excellent opportunity to gain a different perspective on the solutions and implementations, helping to identify bugs, logical errors, overlooked edge cases, or other concerns so we can collaboratively resolve them and prevent mistakes.<br><br>
@@ -77,26 +57,45 @@ Through the creation of these videos, I am enhancing my skills in professional c
 
 </div>
 
-### _Refinement Plan and video Links
+### Refinement Plan and video Links
+<div id="refinement">
 
 Code review videos feature an assessment of the three chosen artifact codes for the capstone project, focusing on their shortcomings and vulnerabilities, along with a description of my strategy for improvements.
 The code review involves a detailed examination of the current source code, providing a concise overview of the project, its purpose, and what the application accomplishes. Following this, I assessed the provided checklist in relation to the existing source code, discussing its limitations and sharing my insights on the proposed enhancements across three categories: software design and engineering artifacts, algorithms and data structures, and databases.<br><br>
 
-Through the creation of these videos, I am enhancing my skills in professional communication across written, verbal, and visual channels. Furthermore, I am ensuring that my code review presentation is effectively communicated in a collaborative setting and expressing my ideas clearly. 
+Through the creation of these videos, I am enhancing my skills in professional communication across written, verbal, and visual channels. Furthermore, I am ensuring that my code review presentation is effectively communicated in a collaborative setting and expressing my ideas clearly. <br><br>
 
-In the artifact of the Code analysis, I illustrate the key components of: Current code and its operation: This segment examines the capabilities and performance of the current code. 
-Code Review: Highlight areas requiring improvement concerning structure, documentation, security, testing, loops, functionality, comments, etc. 
-Planned Improvements: This portion outlines intended enhancements that respond to the concerns identified in the code review.
+In the artifact of the Code analysis, I illustrate the key components of: Current code and its operation: This segment examines the capabilities and performance of the current code. <br><br>
+Code Review: Highlight areas requiring improvement concerning structure, documentation, security, testing, loops, functionality, comments, etc. <br><br>
+Planned Improvements: This portion outlines intended enhancements that respond to the concerns identified in the code review.<br><br>
+</div>
 
-### _Software Design and Engineering_
+### Software Design and Engineering
 <div id="softwaredesign">
 
 The chosen artifact for the code review of software design and engineering is the Weight Tracking Mobile App. This application was created as part of the computer science course CS360 Mobile Architecture and Programming. Its primary objective is to allow users to monitor their weight through an Android device. This project's development and programming tool is called Android Studio IDE. The app was created using Android Studio, which serves as the official development environment for Android devices. The application is developed using the JAVA programming language and integrates with an SQLite database. Android Studio employs Gradle as a build system to run the apps on an Android emulator.<br><br>
 
-#### Android Weight tracking Mobile App(Software Design And Engineering)<br>
-[![alt text](https://img.youtube.com/vi/Lm3JZBd8Vz8/0.jpg)](https://www.youtube.com/watch?v=Lm3JZBd8Vz8)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lm3JZBd8Vz8?si=qvB8UVH6TMCnS9uJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br><br>
 
 Planned upgrades include implementing input validation for usernames and passwords, improving error handling, creating a new account page for new users, and adding graphs or charts to assist users in tracking their weight progress or changes. With these enhancements, I aim to improve data security, enhance account management and login functionalities, safeguard account information, ensure accessibility, and make the interface more user-friendly while also addressing exception handling.<br><br>
+
+
+Course outcomes: <br><br>
+
+Course Outcome 1. Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science.<br><br>
+
+I have developed a well-designed user interface that adheres to design principles intended to create collaborative environments, as outlined in my refinement plan. With this approach, users can easily navigate the interface and enjoy a user-friendly experience across screens and activities. Also, my software solutions allow developers to create visually appealing and consistent user interfaces that align with their app requirements, ensuring accuracy in scale and design, and simulating the implications of UI/UX more efficiently and accurately.  My experience with Android Studio has also significantly enhanced my ability to solve problems, think analytically, and work effectively in a collaborative environment.<br><br>
+
+[Course Outcomes: 3]: Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution while managing the trade-offs involved in design choices.  
+Through my knowledge of website goals and requirements, design standards and current industry trends, I've created more realistic and captivating UI/UX designs for this weight-tracking app. Utilizing modular components, I've optimized the design of the artifact and enhanced its efficiency, demonstrating my ability to improve software performance and refine the design process, which benefits both visual design and effective development.<br><br>
+
+[Course Outcomes: 4]: Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.<br><br>
+
+The enhancements I made align with the intended learning outcomes, enhancing my skills in designing layouts, user interfaces, and the overall visual appeal of web pages. Digital products, including Web UIs, commonly incorporate graphical user interfaces (GUIs) with graphical components such as windows, drop-down menus, buttons, scroll bars, and icons. Utilizing the visual tools in Android Studio, particularly the Layout Editor, I developed the UI and personalized its look and functionality by specifying colors, styles, and themes in XML files.<br><br>
+
+[Course Outcome 5]: "Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities." <br><br>
+
+The transition involves configuring user accounts and applying input validation and output encoding to maintain data integrity and mitigate code execution vulnerabilities. I have also established appropriate authorization controls to limit user permissions according to the principle of least privilege, ensuring that only registered users have access to the website. By putting these extensive security measures into place, I am greatly improving the security stance of my mobile app, thereby safeguarding my user data and fostering trust in my application.
 
 <div style="text-align: right;">
     <a href="#">
@@ -106,14 +105,13 @@ Planned upgrades include implementing input validation for usernames and passwor
 
 </div>
 
-### _Algorithms and Data Structure_
+### Algorithms and Data Structure
 <div id="algorithms">
 
 The code review for algorithms and data structures pertains to the Animal Shelter class. This program was planned, designed, and developed as part of the computer science curriculum, CS 340 Client-Server Development course.  In this project, the Model-View-Controller (MVC) development pattern was used to create an interactive web-based dashboard. It was designed to provide interactive and fully functional training for an animal rescue organization that identifies dogs suitable for their search-and-rescue training programs, where dogs are trained to rescue humans and other dogs. <br><br>
 
 
-#### Grazioso Salvare Rescue Web Application(Algorithms And Data Structure)<br>
-[![alt text](https://img.youtube.com/vi/dvWNYRbq264/0.jpg)](https://www.youtube.com/watch?v=dvWNYRbq264)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dvWNYRbq264?si=r3KL7A_FrguDFgN6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br><br>
 
 
 The application is structured as a monolithic architecture, which limits its flexibility and scalability due to a tightly coupled codebase. I intend to decompose the code into smaller, individual services, ensuring that each service can be independently built, developed, and tested. Additionally, I plan to utilize advanced operations, as the list will facilitate sorting algorithms like quicksort and binary search, which are beneficial for dynamic data in this complex application. With these enhancements, I aim to improve the data structures and algorithms of the Animal Shelter class, thereby boosting the overall performance and value of the system.<br><br>
@@ -134,8 +132,8 @@ The application is structured as a monolithic architecture, which limits its fle
 
 Code reviews in databases are an artifact of the Grazioso Salvare Search for Rescue Web Application. This web application was developed as part of the CS340 Client-Server Development course. Leveraging a pre-existing database from animal shelters, the application identifies and classifies available dogs for training in various rescue programs by developing a web interface. This full-stack application uses Model, View, and Controller development patterns. The project utilizes MongoDB alongside the Dash framework within the Python application. Integration between MongoDB and Python is achieved through the PyMongo library. Assessments of the web application are performed using Jupyter Notebook. <br><br>
 
-#### Grazioso Salvare Rescue Web Application(Databases)<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0k6Qr0WNkN4?si=X7hoe9QRK5_4YfWH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0k6Qr0WNkN4?si=X7hoe9QRK5_4YfWH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br><br>
 
 The planned enhancement involves utilizing the advanced features of MongoDB by creating indexes on frequently searched attributes such as age, animal ID, type, and color. This will enable the database to find data more rapidly, eliminating the need to scan the entire table, and thus allowing for significant horizontal scalability without altering the application logic. Since the data entered into the database lacks validation, it poses security risks; therefore, I intend to implement stringent input validation as the second enhancement for the project. Furthermore, I plan to conduct all operations directly within the database using Aggregation pipelines, which will remove the necessity for transferring large result sets across the network.  <br><br>
 
