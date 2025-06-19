@@ -80,21 +80,21 @@ The chosen artifact for the code review of software design and engineering is th
 Planned upgrades include implementing input validation for usernames and passwords, improving error handling, creating a new account page for new users, and adding graphs or charts to assist users in tracking their weight progress or changes. With these enhancements, I aim to improve data security, enhance account management and login functionalities, safeguard account information, ensure accessibility, and make the interface more user-friendly while also addressing exception handling.<br><br>
 
 
-<h4>Course outcomes: <br><br>
+<h3>Course outcomes: <br><br>
 
-[Course Outcome 1]. Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science.</h4><br>
+[Course Outcome 1]. Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science.</h3><br>
 
 I have developed a well-designed user interface that adheres to design principles intended to create collaborative environments, as outlined in my refinement plan. With this approach, users can easily navigate the interface and enjoy a user-friendly experience across screens and activities. Also, my software solutions allow developers to create visually appealing and consistent user interfaces that align with their app requirements, ensuring accuracy in scale and design, and simulating the implications of UI/UX more efficiently and accurately.  My experience with Android Studio has also significantly enhanced my ability to solve problems, think analytically, and work effectively in a collaborative environment.<br><br>
 
-<h4>[Course Outcomes: 3]: Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution while managing the trade-offs involved in design choices.</h4><br>
+<h3>[Course Outcomes: 3]: Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution while managing the trade-offs involved in design choices.</h3><br>
   
 Through my knowledge of website goals and requirements, design standards and current industry trends, I've created more realistic and captivating UI/UX designs for this weight-tracking app. Utilizing modular components, I've optimized the design of the artifact and enhanced its efficiency, demonstrating my ability to improve software performance and refine the design process, which benefits both visual design and effective development.<br><br>
 
-<h4>[Course Outcomes: 4]: Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.</h4><br>
+<h3>[Course Outcomes: 4]: Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.</h3><br>
 
 The enhancements I made align with the intended learning outcomes, enhancing my skills in designing layouts, user interfaces, and the overall visual appeal of web pages. Digital products, including Web UIs, commonly incorporate graphical user interfaces (GUIs) with graphical components such as windows, drop-down menus, buttons, scroll bars, and icons. Utilizing the visual tools in Android Studio, particularly the Layout Editor, I developed the UI and personalized its look and functionality by specifying colors, styles, and themes in XML files.<br><br>
 
-<h4>[Course Outcome 5]: Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities.</h4><br>
+<h3>[Course Outcome 5]: Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities.</h3><br>
 
 The transition involves configuring user accounts and applying input validation and output encoding to maintain data integrity and mitigate code execution vulnerabilities. I have also established appropriate authorization controls to limit user permissions according to the principle of least privilege, ensuring that only registered users have access to the website. By putting these extensive security measures into place, I am greatly improving the security stance of my mobile app, thereby safeguarding my user data and fostering trust in my application.<br><br>
 
