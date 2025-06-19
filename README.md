@@ -134,9 +134,6 @@ The application is structured as a monolithic architecture, which limits its fle
 
 Code reviews in databases are an artifact of the Grazioso Salvare Search for Rescue Web Application. This web application was developed as part of the CS340 Client-Server Development course. Leveraging a pre-existing database from animal shelters, the application identifies and classifies available dogs for training in various rescue programs by developing a web interface. This full-stack application uses Model, View, and Controller development patterns. The project utilizes MongoDB alongside the Dash framework within the Python application. Integration between MongoDB and Python is achieved through the PyMongo library. Assessments of the web application are performed using Jupyter Notebook. <br><br>
 
-#### Grazioso Salvare Rescue Web Application(Databases)<br>
-[![alt text](https://img.youtube.com/vi/0k6Qr0WNkN4/0.jpg)](https://www.youtube.com/watch?v=0k6Qr0WNkN4)
-
 The planned enhancement involves utilizing the advanced features of MongoDB by creating indexes on frequently searched attributes such as age, animal ID, type, and color. This will enable the database to find data more rapidly, eliminating the need to scan the entire table, and thus allowing for significant horizontal scalability without altering the application logic. Since the data entered into the database lacks validation, it poses security risks; therefore, I intend to implement stringent input validation as the second enhancement for the project. Furthermore, I plan to conduct all operations directly within the database using Aggregation pipelines, which will remove the necessity for transferring large result sets across the network.  <br><br>
 
 <div style="text-align: right;">
@@ -145,3 +142,5 @@ The planned enhancement involves utilizing the advanced features of MongoDB by c
     </a>
 </div>
 </div>
+#### Grazioso Salvare Rescue Web Application(Databases)<br>
+[![alt text](https://img.youtube.com/vi/0k6Qr0WNkN4/0.jpg)](https://www.youtube.com/watch?v=0k6Qr0WNkN4)
