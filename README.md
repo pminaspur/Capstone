@@ -80,9 +80,9 @@ The chosen artifact for the code review of software design and engineering is th
 Planned upgrades include implementing input validation for usernames and passwords, improving error handling, creating a new account page for new users, and adding graphs or charts to assist users in tracking their weight progress or changes. With these enhancements, I aim to improve data security, enhance account management and login functionalities, safeguard account information, ensure accessibility, and make the interface more user-friendly while also addressing exception handling.<br><br>
 
 
-**Course outcomes**: <br><br>
+<h4>Course outcomes**: <br><br>
 
-**Course Outcome 1. Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science.**<br><br>
+Course Outcome 1. Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science.</h4><br><br>
 
 I have developed a well-designed user interface that adheres to design principles intended to create collaborative environments, as outlined in my refinement plan. With this approach, users can easily navigate the interface and enjoy a user-friendly experience across screens and activities. Also, my software solutions allow developers to create visually appealing and consistent user interfaces that align with their app requirements, ensuring accuracy in scale and design, and simulating the implications of UI/UX more efficiently and accurately.  My experience with Android Studio has also significantly enhanced my ability to solve problems, think analytically, and work effectively in a collaborative environment.<br><br>
 
