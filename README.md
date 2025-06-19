@@ -51,7 +51,7 @@ The code review involves a detailed examination of the current source code, prov
 <h3>Artifact 1: Software Design and Engineering</h3>
 This artifact was a suitable choice for my portfolio, as it encompassed the entire software design and engineering process. In addition to the design of the user experience, it involves the user's interaction with the different screens and actions that the application includes. It gives use the exposure to understand how Activities (screens) and Fragments (reusable UI components) are structured and how they interact within your app. Also, you learn how to use Intents to navigate between Activities. It will broaden our concepts on how to design user interfaces using XML, defining the visual structure and layout of your app, apply Material Design principles for a modern, consistent, and user-friendly UI, create custom UI elements to meet specific design requirements and also teach how to create adaptable layouts for various screen sizes and resolutions. <br><br>
 
-<img title="Weight tracking App Screenshot" alt="Weight tracking App Screenshot" src="https://pminaspur.github.io/Capstone/assets/images/Weight_tracking_app.png">
+<img title="Weight tracking App Screenshot" alt="Weight tracking App Screenshot" src="https://pminaspur.github.io/Capstone/assets/images/Weight_tracking_app.png"/>
 
 Through its industry-standard icons and symbols, it ensures intuitive usage of the application. In addition to their algorithms and data structure between the different classes and methods, and their layout and source code, it includes design and engineering considerations. A relational database is used to store the data generated, read, updated, and deleted by users of the application. The debugging tools in Android Studio will also enable you to identify and fix errors in your code. Different types of testing (unit, UI, integration) can be used to ensure your app is functional and stable, as well as Git and platforms like GitHub to manage your code, collaborate with others, and track changes.<br><br>
 
@@ -59,8 +59,8 @@ Through its industry-standard icons and symbols, it ensures intuitive usage of t
 
 This artifact was chosen because it provides exposure to designing and implementing MongoDB databases, querying data effectively, and exploring and manipulating data using Python and the Jupyter environment. Additionally, this project will establish user authentication for administrators and users, and provide access to data via a MongoDB database, thereby gaining hands-on experience in data modeling, indexing, and other advanced MongoDB concepts.<br><br> 
 
+<img title="Animal Shelter Screenshot" alt="Animal Shelter Screenshot" src="https://pminaspur.github.io/Capstone/assets/images/Animal_Shelter_Screenshot.png"/>
 
-![Animal Shelter Screenshot!](https://pminaspur.github.io/Capstone/assets/images/Animal_Shelter_Screenshot.png "Animal Shelter Screenshot")<br><br>
 
 With the help of a database, the project will make animal information accessible to users. The CRUD process involves creating, reading, updating, and deleting animals in an animal database. In addition to its official Python driver, MongoDB provides PyMongo as well. There are a number of ways to communicate with MongoDB servers using PyMongo. The program allows you to write and delete data, run queries, retrieve retrieval results, access databases, and execute database commands. With the help of an interactive dashboard (buttons, drop-downs), the Outcomes data from the Austin Animal Center was filtered.  <br><br>
 
@@ -68,7 +68,8 @@ With the help of a database, the project will make animal information accessible
 
 As the selected artifact for the databases category, we are featuring Grazioso Salvare, an organization dedicated to finding dogs suitable for search-and-rescue training, who seeks a Rescue Web App. The purpose of this web application is to develop an interactive and fully functional dashboard that can identify and sort available dogs based on the information from Austin's animal shelters. As part of the CS340 Client/Server development course, a web application was conceptualized and created. This full-stack application uses Model, View, and Controller development patterns. <br><br>
 
-![Animal Dashboard Screenshot!](https://pminaspur.github.io/Capstone/assets/images/Animal_dashboard.png "Animal Dashboard Screenshot")<br><br>
+<img title="Animal Dashboard Screenshot" alt="Animal Dashboard Screenshot" src="https://pminaspur.github.io/Capstone/assets/images/Animal_dashboard.png"/>
+
 
 The model layer represents the underlying data/database used in development, while the view layer represents the user-facing visual representation. In user interfaces (UIs), users communicate with the requested data. A MongoDB database is used for this project. The view layer uses Dash Plotly, while the controller layer uses Python with Pymongo, relying on Dash Leaflet. In addition to querying, retrieving results, writing and deleting data, and running database commands, this application performs many database operations.<br><br>
 
