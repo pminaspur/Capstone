@@ -51,7 +51,7 @@ The code review involves a detailed examination of the current source code, prov
 <h3>Artifact 1: Software Design and Engineering</h3>
 This artifact was a suitable choice for my portfolio, as it encompassed the entire software design and engineering process. In addition to the design of the user experience, it involves the user's interaction with the different screens and actions that the application includes. It gives use the exposure to understand how Activities (screens) and Fragments (reusable UI components) are structured and how they interact within your app. Also, you learn how to use Intents to navigate between Activities. It will broaden our concepts on how to design user interfaces using XML, defining the visual structure and layout of your app, apply Material Design principles for a modern, consistent, and user-friendly UI, create custom UI elements to meet specific design requirements and also teach how to create adaptable layouts for various screen sizes and resolutions. <br><br>
 
-![Weight tracking App Screenshot!](/assets/images/Weight_tracking_app.png "Weight tracking App Screenshot")<br><br>
+
 
 Through its industry-standard icons and symbols, it ensures intuitive usage of the application. In addition to their algorithms and data structure between the different classes and methods, and their layout and source code, it includes design and engineering considerations. A relational database is used to store the data generated, read, updated, and deleted by users of the application. The debugging tools in Android Studio will also enable you to identify and fix errors in your code. Different types of testing (unit, UI, integration) can be used to ensure your app is functional and stable, as well as Git and platforms like GitHub to manage your code, collaborate with others, and track changes.<br><br>
 
@@ -69,6 +69,8 @@ Through the creation of these videos, I am enhancing my skills in professional c
 </div>
 
 </div>
+
+![Weight tracking App Screenshot!](/assets/images/Weight_tracking_app.png "Weight tracking App Screenshot")<br><br>
 
 ### Refinement Plan and video Links
 <div id="refinement">
