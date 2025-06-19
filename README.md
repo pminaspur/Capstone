@@ -45,7 +45,20 @@ My experience in the Computer Science Program has helped me learn and improve my
 
 Code review is often referred to as a peer assessment of code, which helps developers ensure or improve code quality and identify and rectify errors that may have been missed during the initial development stage before integration and deployment. In other words, code reviews are a practice focused on maintaining software quality, wherein one or more individuals or tools methodically inspect and evaluate the program's source code. After a software developer completes coding, they can easily make mistakes. With this in mind, code reviews provide an excellent opportunity to gain a different perspective on the solutions and implementations, helping to identify bugs, logical errors, overlooked edge cases, or other concerns so we can collaboratively resolve them and prevent mistakes.<br><br>
 
-The goals of this course included an informal code review where I assessed projects from three prior courses to evaluate both the strengths and weaknesses of the code, as well as suggested improvements that encompassed software engineering, data structures and algorithms, and database elements. The enhancements I selected showcase my ability to fulfill all five course outcomes.<br><br>
+The goals of this course included an informal code review where I assessed projects from three prior courses to evaluate both the strengths and weaknesses of the code, as well as suggested improvements that encompassed software engineering, data structures and algorithms, and database elements. Through the enhancements I selected, I was able to demonstrate my ability to fulfill all five course outcomes.<br><br>
+
+<h3>Course Outcomes</h3>
+
+1) Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science.<br><br>
+
+2) Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts<br><br?
+
+3) Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices.<br><br?
+
+4) Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals.<br><br>
+
+5) Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources.<br><br>
+
 
 <h3>Artifact 1: Software Design and Engineering</h3>
 This artifact was a suitable choice for my portfolio, as it encompassed the entire software design and engineering process. In addition to the design of the user experience, it involves the user's interaction with the different screens and actions that the application includes. It gives use the exposure to understand how Activities (screens) and Fragments (reusable UI components) are structured and how they interact within your app. Also, you learn how to use Intents to navigate between Activities. It will broaden our concepts on how to design user interfaces using XML, defining the visual structure and layout of your app, apply Material Design principles for a modern, consistent, and user-friendly UI, create custom UI elements to meet specific design requirements and also teach how to create adaptable layouts for various screen sizes and resolutions. <br><br>
@@ -107,6 +120,7 @@ The chosen artifact for the code review of software design and engineering is th
 
 Planned upgrades include implementing input validation for usernames and passwords, improving error handling, creating a new account page for new users, and adding graphs or charts to assist users in tracking their weight progress or changes. With these enhancements, I aim to improve data security, enhance account management and login functionalities, safeguard account information, ensure accessibility, and make the interface more user-friendly while also addressing exception handling.<br><br>
 
+The planned enhancement for the CS project ( Mobile Architecture and Programming) aligns with the following course outcomes:<br><br>
 
 <h3>Course outcomes: <br><br>
 
@@ -146,6 +160,10 @@ The code review for algorithms and data structures pertains to the Animal Shelte
 
 The application is structured as a monolithic architecture, which limits its flexibility and scalability due to a tightly coupled codebase. I intend to decompose the code into smaller, individual services, ensuring that each service can be independently built, developed, and tested. Additionally, I plan to utilize advanced operations, as the list will facilitate sorting algorithms like quicksort and binary search, which are beneficial for dynamic data in this complex application. With these enhancements, I aim to improve the data structures and algorithms of the Animal Shelter class, thereby boosting the overall performance and value of the system.<br><br>
 
+The planned enhancement for the CS 340 project (Client/Server Development ) aligns with the following course outcomes:<br><br>
+
+<h3>Course outcomes: <br><br>
+
 <h3>[Course Outcomes: 3]: Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution while managing the trade-offs involved in design choices.</h3><br>
   
 To demonstrate my ability to create efficient solutions, I refined the Animal Shelter class's data structure and algorithms based on algorithmic principles and computer science practices . The improvement also reflects my ability to make design trade-offs, such as utilizing advanced algorithm operations with Lists, which will enhance data access speed and facilitate operations like Merge sort, Linear search, Time sort, and Binary search, leading to improved performance.<br><br>
@@ -179,6 +197,10 @@ Code reviews in databases are an artifact of the Grazioso Salvare Search for Re
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0k6Qr0WNkN4?si=X7hoe9QRK5_4YfWH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br><br>
 
 The planned enhancement involves utilizing the advanced features of MongoDB by creating indexes on frequently searched attributes such as age, animal ID, type, and color. This will enable the database to find data more rapidly, eliminating the need to scan the entire table, and thus allowing for significant horizontal scalability without altering the application logic. Since the data entered into the database lacks validation, it poses security risks; therefore, I intend to implement stringent input validation as the second enhancement for the project. Furthermore, I plan to conduct all operations directly within the database using Aggregation pipelines, which will remove the necessity for transferring large result sets across the network.  <br><br>
+
+The planned enhancement for the CS 340 project (Client/Server Development ) aligns with the following course outcomes:<br><br>
+
+<h3>Course outcomes: <br><br>
 
 <h3>[Course Outcomes: 3]: Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution while managing the trade-offs involved in design choices.</h3><br>
   
