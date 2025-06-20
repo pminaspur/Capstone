@@ -166,7 +166,7 @@ The code review for algorithms and data structures pertains to the Animal Shelte
 
 The application is structured as a monolithic architecture, which limits its flexibility and scalability due to a tightly coupled codebase. I intend to decompose the code into smaller, individual services, ensuring that each service can be independently built, developed, and tested. Additionally, I plan to utilize advanced operations, as the list will facilitate sorting algorithms like quicksort and binary search, which are beneficial for dynamic data in this complex application. With these enhancements, I aim to improve the data structures and algorithms of the Animal Shelter class, thereby boosting the overall performance and value of the system.<br><br>
 
-<a href="https://pminaspur.github.io/Capstone/Source%20Code/Enhancement/CS340-Databases/"> CS340 Client/Server Development - Grazioso Salvare Rescue Web Application - Enhancement</a> <br><br>
+<a href="https://pminaspur.github.io/Capstone/Source%20Code/Enhancement/CS340-Algorithms/"> CS340 Client/Server Development - Grazioso Salvare Rescue Web Application - Enhancement</a> <br><br>
 
 Artifact Original files repository at - <a href="https://github.com/pminaspur/Capstone/tree/main/Source%20Code/Original/CS-340%20Client%20Server%20Development"> CS340 Client/Server Development - Grazioso Salvare Rescue Web Application - Repository</a> <br><br>
 
@@ -211,7 +211,7 @@ Code reviews in databases are an artifact of the Grazioso Salvare Search for Re
 
 The planned enhancement involves utilizing the advanced features of MongoDB by creating indexes on frequently searched attributes such as age, animal ID, type, and color. This will enable the database to find data more rapidly, eliminating the need to scan the entire table, and thus allowing for significant horizontal scalability without altering the application logic. Since the data entered into the database lacks validation, it poses security risks; therefore, I intend to implement stringent input validation as the second enhancement for the project. Furthermore, I plan to conduct all operations directly within the database using Aggregation pipelines, which will remove the necessity for transferring large result sets across the network.  <br><br>
 
-<a href="https://pminaspur.github.io/Capstone/Source%20Code/Enhancement/CS340-Algorithms/"> CS340 Client/Server Development - Grazioso Salvare Rescue Web Application - Enhancement</a> <br><br>
+<a href="https://pminaspur.github.io/Capstone/Source%20Code/Enhancement/CS340-Databases/"> CS340 Client/Server Development - Grazioso Salvare Rescue Web Application - Enhancement</a> <br><br>
 
 Artifact Original files repository at - <a href="https://github.com/pminaspur/Capstone/tree/main/Source%20Code/Original/CS-340%20Client%20Server%20Development"> CS340 Client/Server Development - Grazioso Salvare Rescue Web Application - Repository</a> <br><br>
 
