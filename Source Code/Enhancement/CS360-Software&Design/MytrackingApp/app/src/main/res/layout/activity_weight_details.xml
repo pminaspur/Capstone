@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".weight_details"
+    android:background="@drawable/background">
+
+
+    <TableLayout
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="1dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:stretchColumns="*"
+        >
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="@string/weight_info"
+                android:textColor="@color/white"
+                android:textSize="30sp"
+                android:layout_span="3"/>
+        </TableRow>
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/txt_logged_user"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="left"
+                android:textColor="@color/white"
+                android:textSize="20sp"
+                android:layout_span="3"/>
+        </TableRow>
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/image_logo"
+                android:gravity="center"
+                android:layout_span="3">
+
+                <ImageView
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:src="@drawable/weighingmachine" >
+                </ImageView>
+            </LinearLayout>
+        </TableRow>
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#203DA4">
+            <TextView
+                android:text="id"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:textSize="20sp"
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:gravity="center"
+                />
+            <TextView
+                android:text="@string/Date"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:textSize="20sp"
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:gravity="right"
+                />
+            <TextView
+                android:text="@string/Weight"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:textSize="20sp"
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:gravity="right"/>
+        </TableRow>
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <GridView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/user_weight_details"
+                android:layout_span="3"
+                />
+        </TableRow>
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <Button
+                android:id="@+id/saveWeight"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                android:text="Add Weight"
+                android:layout_column="2"
+                android:textColor="@color/white"
+                android:textSize="17sp"
+                android:backgroundTint="#203DA4"
+                android:textStyle="normal"/>
+        </TableRow>
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <Button
+                android:id="@+id/showChart"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                android:text="Show Chart"
+                android:layout_column="2"
+                android:textColor="@color/white"
+                android:textSize="17sp"
+                android:backgroundTint="#203DA4"
+                android:textStyle="normal"/>
+        </TableRow>
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <Button
+                android:id="@+id/setnotfication"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Set Notification"
+                android:layout_column="2"
+                android:textColor="@color/white"
+                android:textSize="17sp"
+                android:backgroundTint="#203DA4"
+                android:textStyle="normal"/>
+        </TableRow>
+        <LinearLayout
+            android:id="@+id/linearLayout2"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:layout_marginTop="200dp"
+            android:orientation="horizontal"
+            android:layout_weight="0"
+            android:background="#203DA4"
+            app:layout_constraintBottom_toTopOf="parent"
+            tools:layout_editor_absoluteX="167dp">
+
+            <TextView
+                android:id="@+id/goalText"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1.5"
+                android:gravity="center"
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                android:text="TARGET WEIGHT: " />
+
+            <EditText
+                android:id="@+id/goalWeightText"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1.5"
+                android:gravity="center"
+                android:inputType="text"
+                android:text="150"
+                android:textColor="@color/white"
+                android:textStyle="bold" />
+
+            <ImageButton
+                android:id="@+id/editTargetWeight_button"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:background="#FF3700B3"
+                app:srcCompat="@drawable/pencil_edit" />
+
+        </LinearLayout>
+    </TableLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
