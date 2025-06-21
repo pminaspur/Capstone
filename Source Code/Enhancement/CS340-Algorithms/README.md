@@ -17,6 +17,8 @@ In this artifact, I have successfully designed and evaluated computing solutions
 
 I demonstrate proficiency in applying established and creative computing methods, skills, and tools to develop computer solutions that provide value and meet industry-specific objectives by optimizing algorithms, reducing unnecessary processes, and enhancing the program's efficiency. I have also Developed a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities. My implementation of input validation and exception handling has improved data security and safeguarded account information, while enhancing accessibility and user-friendliness, both of which are crucial. I enhanced my understanding of CRUD (Create, Read, Update, Delete) operations within MongoDB. This allowed me to enhance these tools for data-centric projects and deepen my understanding of the data analysis workflow.<br><br>
 
+<img title="Algorithm Pseudocode Screenshot" alt="Algorithm Pseudocode Screenshot" src="https://pminaspur.github.io/Capstone/assets/images/Algorithm_Pseudocode.png"/><br><br>
+
 <img title="Algorithm Dashboard Screenshot" alt="Algorithm Dashboard Screenshot" src="https://pminaspur.github.io/Capstone/assets/images/Algorithm_Dashboard.png"/><br><br>
 
 <img title="Algorithm Charts Screenshot" alt="Algorithm Charts Screenshot" src="https://pminaspur.github.io/Capstone/assets/images/Algorithm_Charts.png"/><br><br>
