@@ -10,7 +10,7 @@ The Weight Tracker app is a small mobile weight-watching application created for
 The application was designed to be a weight-tracking application with at least three screens: Login, view daily weight, and enter daily weight. In this app, users can track their weight and calculate their ideal weight, while also viewing statistics and graphs to monitor their progress toward their target weight. Users can enter new weight details, update them, delete them, and set their target goals using this app. The app was designed to be user-friendly and help them achieve their target weight. An authentication security feature was implemented in the application to protect the data stored in the user's database.
 The application requires a database with at least three tables: one to store daily weight, user logins, and passwords, and another to store the goal weight. Users who typically use weight loss tracking apps have different reasons for doing so. Users may set multiple goals, one of which may be to gain weight while the other may be to lose weight.
 
-## Weight Tracking App Final Paper
+## Weight Tracking App Final Paper- Narrative
 
 ## Reflection
 
