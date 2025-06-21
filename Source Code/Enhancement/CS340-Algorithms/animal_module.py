@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Fri Jul 26 07:58:13 2024
 @author: pushpalaxman_snhu
-* Date					: 08/04/2024
+* Date					: 06/21/2025
  * Developer Name		: Pushpa Laxman
  * Class Detail			: This class is for Animal shelter to add, read, update 
  *                        and delete the animal object to mongodb 
