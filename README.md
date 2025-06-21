@@ -196,9 +196,6 @@ The process involves implementing input validation and data sanitization to main
     </a>
 </div>
 
-</div>
-
-
 
 ### _Databases_
 <div id="databases">
@@ -238,5 +235,5 @@ It is crucial to validate data in databases to maintain data accuracy, integrity
         <button style="font-size: 10px; font-weight: 500; background: #4169e1; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #4169e1; padding: 5px 5px;">Back to Top &#8593;</button>
     </a>
 </div>
-</div>
+
 
