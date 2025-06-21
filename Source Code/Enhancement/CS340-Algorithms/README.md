@@ -1,5 +1,3 @@
-### Algorithms
-
 # Grazioso Salvare Rescue Web Application
 ## CS340 Client/Server Development
 

@@ -1,5 +1,3 @@
-### Databases
-
 # Rescue Web Application(Databases)
 ## CS340 Client/Server Development
 ### Overview
