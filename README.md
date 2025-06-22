@@ -197,7 +197,7 @@ The process involves implementing input validation and data sanitization to main
 </div>
 
 
-<h3>Databases</h3> <br><br>
+<h3>Databases</h3>
 <div id="databases">
 
 
@@ -237,7 +237,7 @@ It is crucial to validate data in databases to maintain data accuracy, integrity
 </div>
 
 
-<h3>References</h3> <br><br> 
+<h3>References</h3>
 <div id="reference">
 Smart freelancing platform. Insolvo. (n.d.). https://insolvo.com/development-and-it/web-development/myfreecams-mobile-app  <br><br>
 GeeksforGeeks. (2025a, February 3). Aggregation in mongodb. https://www.geeksforgeeks.org/aggregation-in-mongodb/  <br><br>
