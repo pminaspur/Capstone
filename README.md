@@ -236,4 +236,12 @@ It is crucial to validate data in databases to maintain data accuracy, integrity
     </a>
 </div>
 
+### _References_
+
+Smart freelancing platform. Insolvo. (n.d.). https://insolvo.com/development-and-it/web-development/myfreecams-mobile-app  <br><br>
+GeeksforGeeks. (2025a, February 3). Aggregation in mongodb. https://www.geeksforgeeks.org/aggregation-in-mongodb/  <br><br>
+Shera Adams. (n.d.). https://sheraadams.github.io/ (Referred for git pages) <br><br>
+Mydbops, & Author, A. the. (2025, May 9). MongoDB aggregation: Beginner’s Guide with examples. RSS. https://www.mydbops.com/blog/mongodb-aggregation-guide  <br><br>
+Best way to teach data structures and algorithms? | Researchgate. (n.d.-b). https://www.researchgate.net/post/Best_way_to_teach_Data_Structures_and_Algorithms  <br><br>
+Team, L. (2024, February 23). Understanding computational thinking for more effective learning. Learning. https://www.learning.com/blog/understanding-computational-thinking/  <br><br>
 
