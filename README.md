@@ -236,7 +236,7 @@ It is crucial to validate data in databases to maintain data accuracy, integrity
     </a>
 </div>
 
-### _References_
+### _References_  
 
 Smart freelancing platform. Insolvo. (n.d.). https://insolvo.com/development-and-it/web-development/myfreecams-mobile-app  <br><br>
 GeeksforGeeks. (2025a, February 3). Aggregation in mongodb. https://www.geeksforgeeks.org/aggregation-in-mongodb/  <br><br>
